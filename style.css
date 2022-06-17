@@ -1,0 +1,121 @@
+body {
+	background: linear-gradient(245deg, skyblue, rgb(111, 132, 235),rgb(110, 48, 224));
+}
+nav {
+	text-align: center;
+	color: white;
+	margin-right: 50px;
+	border-bottom: 10px;
+	display: inline-block;
+	width: 30%;
+	margin-left: 820px;
+	border-radius: 15px;
+	background-color: rgb(100, 87, 243);
+}
+
+#logo {
+	width: 70px;
+	margin-left: 50px;
+	margin-top: 60px;
+	margin-bottom: -60px;
+	display: inline-block;
+	cursor: pointer;
+}
+
+li {
+	display: inline;
+	text-align: center;
+	padding: 7px;
+}
+
+a {
+	text-decoration: none;
+	background-color: rgb(100, 87, 243);
+	color: white;
+	border-radius: 15px;
+}
+
+h1 {
+	font-family: Arial, sans-serif;
+	color: white;
+	font-weight: bold;
+	font-size: 70px;
+	text-align: center;
+}
+
+h2, h3, p, h4, li {
+	text-align: center;
+	font-family:  Geneva, Tahoma, sans-serif;
+	margin: 5px;
+} 
+article {
+	text-align: center;
+}
+
+footer {
+	background-color: white;
+	margin: 0;
+	padding: 50px;
+	width: auto;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#donar{
+	text-align: center;
+	margin: 30px;
+}
+
+#donar img {
+	margin-bottom: 20px;
+	width: 300px;
+}
+#seguime {
+	text-align: center;
+}
+
+#inscribirse {
+	text-align: center;
+}
+
+input {
+	margin: 30px;
+	padding: 20px;
+	border-radius: 10px;
+	border-color: rgba(53, 158, 232, 0.995);
+	font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+legend {
+	font-family: Geneva, Tahoma, sans-serif;
+}
+
+.titulos {
+	line-height: 50px;
+	margin-top: 20px;
+	margin-bottom: 40px;
+	font-size: 40px;
+	color: white;
+	background-size: auto;
+	background-color: rgb(100, 87, 243);
+	width: auto;
+	border-color: aqua;
+	border-radius: 15px 15px 0 0;
+	text-align: center;
+	filter: blur(10%);
+}
+
+#boton-formulario {
+	background:rgba(53, 158, 232, 0.995);
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 24px;
+	color: white;
+	cursor:pointer;
+}
+
+ul {
+	list-style: none;
+}
+
+img {
+	cursor: pointer;
+}
